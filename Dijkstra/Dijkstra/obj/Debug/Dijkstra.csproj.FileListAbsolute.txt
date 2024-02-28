@@ -1,0 +1,14 @@
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.AssemblyReference.cache
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.pdb
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.abstractions.dll
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.assert.dll
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.core.dll
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.abstractions.xml
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.assert.xml
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\bin\Debug\xunit.core.xml
+C:\Users\srujan\source\repos\Dijkstra\Dijkstra\obj\Debug\Dijkstra.csproj.Up2Date
